@@ -1,0 +1,10 @@
+[22-Nov-2016 13:19:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '$registered_time' (T_VARIABLE) in /home/geekangi/public_html/infusorydesigns.com/bank/bank/token.php on line 12
+[22-Nov-2016 13:19:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '$registered_time' (T_VARIABLE) in /home/geekangi/public_html/infusorydesigns.com/bank/bank/token.php on line 12
+[22-Nov-2016 13:22:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '$registered_time' (T_VARIABLE) in /home/geekangi/public_html/infusorydesigns.com/bank/bank/token.php on line 12
+[22-Nov-2016 13:24:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '$registered_time' (T_VARIABLE) in /home/geekangi/public_html/infusorydesigns.com/bank/bank/token.php on line 12
+[22-Nov-2016 13:25:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '$registered_time' (T_VARIABLE) in /home/geekangi/public_html/infusorydesigns.com/bank/bank/token.php on line 12
+[22-Nov-2016 13:26:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '$registered_time' (T_VARIABLE) in /home/geekangi/public_html/infusorydesigns.com/bank/bank/token.php on line 12
+[22-Nov-2016 18:57:44 Asia/Kolkata] PHP Notice:  Use of undefined constant generated_time - assumed 'generated_time' in /home/geekangi/public_html/infusorydesigns.com/bank/bank/token.php on line 22
+[22-Nov-2016 19:21:36 Asia/Kolkata] PHP Notice:  Undefined variable: registered_time in /home/geekangi/public_html/infusorydesigns.com/bank/bank/token.php on line 25
+[22-Nov-2016 15:48:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/geekangi/public_html/infusorydesigns.com/bank/bank/token.php on line 41
+[22-Nov-2016 15:49:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home/geekangi/public_html/infusorydesigns.com/bank/bank/token.php on line 41
